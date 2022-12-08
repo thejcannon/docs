@@ -54,7 +54,6 @@ import {YouTube} from './YouTube';
 import {dirname, join} from 'path';
 import {kebabCase} from 'lodash';
 import {rehype} from 'rehype';
-import {useMermaidStyles} from '../utils/mermaid';
 
 // these must be imported after MarkdownCodeBlock
 import 'prismjs/components/prism-bash';
@@ -181,7 +180,6 @@ const {processSync} = rehype()
 export default function Page({file, pageContext, uri}) {
   const [language, setLanguage] = useLocalStorage('language');
 
-  const mermaidStyles = useMermaidStyles();
   const fieldTableStyles = useFieldTableStyles();
 
   const {
@@ -241,14 +239,6 @@ export default function Page({file, pageContext, uri}) {
 
   return (
     <>
-      <Global
-        styles={{
-          '.mermaid': {
-            lineHeight: 'normal',
-            ...mermaidStyles
-          }
-        }}
-      />
       <PathContext.Provider
         value={{
           uri,
