@@ -60,7 +60,7 @@
     "gatsby": "^5.12.8",
     "gatsby-plugin-algolia": "^1.0.3",
     "gatsby-plugin-manifest": "^5.12.3",
-    "gatsby-plugin-mdx": "^5.12.2",
+    "gatsby-plugin-mdx": "^5.12.3",
     "gatsby-plugin-netlify": "^5.1.1",
     "gatsby-plugin-offline": "^6.12.3",
     "gatsby-plugin-plausible": "^0.0.7",
