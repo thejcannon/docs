@@ -22,7 +22,7 @@ jobs:
       - run: sudo apt update -y && sudo apt install -y unzip
       - run: mkdir docs
       - id: download-artifact
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           result-encoding: string
           script: |
@@ -58,7 +58,7 @@ jobs:
           path: docs
           destination: mergify-docs-preview/${{steps.download-artifact.outputs.result}}
 
-      - uses: actions/github-script@v6
+      - uses: actions/github-script@v7
         if: always()
         with:
           script: |
