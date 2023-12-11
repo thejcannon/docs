@@ -28,7 +28,7 @@ jobs:
       - name: 'Set up Cloud SDK'
         # yamllint disable-line rule:line-length
         # nosemgrep: yaml.github-actions.security.third-party-action-not-pinned-to-commit-sha.third-party-action-not-pinned-to-commit-sha
-        uses: 'google-github-actions/setup-gcloud@v1'
+        uses: 'google-github-actions/setup-gcloud@v2'
 
       - name: Generate new types from engine internal openapi
         run: |
