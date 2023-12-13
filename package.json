@@ -53,7 +53,7 @@
     "@parcel/watcher": "^2.3.0",
     "@react-icons/all-files": "^4.1.0",
     "@stoplight/elements": "^7.15.3",
-    "algoliasearch": "^4.20.0",
+    "algoliasearch": "^4.21.1",
     "canvas": "^2.11.2",
     "fenceparser": "^2.2.0",
     "fuse.js": "^7.0.0",
