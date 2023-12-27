@@ -52,7 +52,7 @@
     "@mdx-js/react": "^2.3.0",
     "@parcel/watcher": "^2.3.0",
     "@react-icons/all-files": "^4.1.0",
-    "@stoplight/elements": "^7.16.1",
+    "@stoplight/elements": "^7.16.2",
     "algoliasearch": "^4.22.0",
     "canvas": "^2.11.2",
     "fenceparser": "^2.2.0",
