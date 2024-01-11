@@ -102,7 +102,7 @@
     "sass": "^1.69.5",
     "uuid": "^9.0.1",
     "viz.js": "^2.1.2",
-    "vue": "^3.3.10"
+    "vue": "^3.4.8"
   },
   "remarkConfig": {
     "settings": {
