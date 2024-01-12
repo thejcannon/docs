@@ -76,7 +76,7 @@
     "@types/react": "^18.2.47",
     "@types/react-dom": "^18.2.17",
     "@types/uuid": "^9.0.7",
-    "@viz-js/viz": "^3.2.3",
+    "@viz-js/viz": "^3.2.4",
     "algoliasearch": "^4.20.0",
     "canvas-confetti": "^1.9.2",
     "cheerio": "^1.0.0-rc.12",
