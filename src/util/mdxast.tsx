@@ -101,7 +101,7 @@ export function renderMdxTable(table: TableType) {
 		table.data
 			? stripHtmlFromkeys(
 					JSON.parse(preventHighlightIssues(table.data)) as { [s: string]: unknown }
-			  )
+				)
 			: {}
 	) as { [optionKey: string]: OptionDefinition };
 	const onlyHighlightedOptions = removeOptionsWithoutHighlight(data);
