@@ -39,7 +39,7 @@
     "hast-util-from-html": "^2.0.1",
     "hast-util-to-html": "^9.0.0",
     "hast-util-to-string": "^3.0.0",
-    "hastscript": "^8.0.0",
+    "hastscript": "^9.0.0",
     "html-escaper": "^3.0.3",
     "mdast-util-from-markdown": "^2.0.0",
     "mdast-util-mdx-jsx": "^3.0.0",
