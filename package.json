@@ -46,7 +46,7 @@
     "mdast-util-to-hast": "^13.1.0",
     "mdast-util-to-string": "^4.0.0",
     "preact": "^10.19.3",
-    "prettier": "^3.2.4",
+    "prettier": "^3.2.5",
     "prettier-plugin-astro": "^0.13.0",
     "rehype": "^13.0.1",
     "remark": "^15.0.1",
