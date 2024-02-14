@@ -81,7 +81,7 @@
     "canvas-confetti": "^1.9.2",
     "cheerio": "^1.0.0-rc.12",
     "classnames": "^2.5.1",
-    "dotenv": "^16.4.1",
+    "dotenv": "^16.4.4",
     "framer-motion": "^11.0.3",
     "github-slugger": "^2.0.0",
     "jsdoc-api": "^8.0.0",
