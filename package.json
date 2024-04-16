@@ -72,7 +72,7 @@
     "@fontsource/poppins": "^5.0.13",
     "@fontsource/source-sans-pro": "^5.0.8",
     "@nanostores/preact": "^0.5.1",
-    "@scalar/api-reference": "^1.20.29",
+    "@scalar/api-reference": "^1.21.2",
     "@types/react": "^18.2.73",
     "@types/react-dom": "^18.2.25",
     "@types/uuid": "^9.0.8",
