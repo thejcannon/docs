@@ -68,7 +68,7 @@
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
-    "@fontsource/ibm-plex-mono": "^5.0.12",
+    "@fontsource/ibm-plex-mono": "^5.0.13",
     "@fontsource/poppins": "^5.0.13",
     "@fontsource/source-sans-pro": "^5.0.8",
     "@nanostores/preact": "^0.5.1",
